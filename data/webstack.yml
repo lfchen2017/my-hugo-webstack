@@ -69,10 +69,10 @@
           url: https://translate.google.com/
           description: 谷歌翻译。
 
-        - title: 手画白板
+        - title: excalidraw
           logo: https://img.lfchen.eu.org/file/imgbed/1772250804794_image.png
           url: https://excalidraw.com/
-          description: excalidraw  
+          description: 手画白板  
           
         - title: ProcessOn
           logo: ProcessOn.png
@@ -127,7 +127,7 @@
         - title: 百度网盘
           logo: 百度网盘.jpg
           url: http://pan.baidu.com/
-          description: https://pan.baidu.com/.
+          description: 百度网盘
         - title: 阿里云盘
           logo: 阿里云盘.png
           url: https://www.aliyundrive.com/
@@ -140,7 +140,7 @@
           logo: 坚果云.png
           url: https://www.jianguoyun.com/
           description: 坚果云官网。
-          
+
     - term: 图标素材
       links:
         - title: Iconfinder
