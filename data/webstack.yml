@@ -3,10 +3,10 @@
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
-    - title: 语雀测试
-      logo: 语雀.webp
+    - title: 语雀
+      logo: https://img.lfchen.eu.org/file/imgbed/1772243791828_语雀.webp
       url: https://www.yuque.com/
-      description: 专业的云端知识库测试。
+      description: 专业的云端知识库
     - title: QQ 邮箱
       logo: qq邮箱.png
       url: http://mail.qq.com/
@@ -177,7 +177,7 @@
           description: 家庭云|网盘|文件备份|资源分享。
         - title: 坚果云
           logo: 坚果云.png
-          usrl: https://www.jianguoyun.com/
+          url: https://www.jianguoyun.com/
           description: 坚果云官网。
     - term: 图标素材
       links:
