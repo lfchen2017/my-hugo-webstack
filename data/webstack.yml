@@ -78,25 +78,24 @@
           url: https://softoroom.org/
           description: unraid等软件破解
 
-      links:
+      
         - title: 6v电影
           logo: https://img.lfchen.eu.org/file/imgbed/1772439610877_www.6v520.cc-favicon-large.ico
           url: https://www.6v520.cc/
           description: 6v电影
       
-      links:
+      
         - title: bt电影
           logo: https://img.lfchen.eu.org/file/imgbed/1772440041132_www.1lou.me-favicon-large.ico
           url: https://www.1lou.me/
           description: bt电影
 
-      links:
+      
         - title: 磁力熊
           logo: https://img.lfchen.eu.org/file/imgbed/1772440183911_www.cilixiong.org-favicon-large.ico
           url: https://www.cilixiong.org/
           description: 磁力熊
 
-      links:
         - title: liumingye 音乐
           logo: https://img.lfchen.eu.org/file/imgbed/1772439950501_tools.liumingye.cn-favicon-large.ico
           url: https://tools.liumingye.cn/
@@ -327,6 +326,37 @@
 - taxonomy: 开发设计
   icon: fas fa-tools fa-lg
   list: 
+    - term: 在线工具
+      links:
+        - title: tinypng
+          url: https://tinypng.com/
+          logo: tinypng.png
+          description: Optimize your images with a perfect balance in quality and file size.
+        - title: goqr
+          url: http://goqr.me/
+          logo: goqr.png
+          description: create QR codes for free (Logo, T-Shirt, vCard, EPS).
+        - title: ezgif
+          url: https://ezgif.com
+          logo: ezgif.png
+          description: simple online GIF maker and toolset for basic animated GIF editing.
+        - title: Android 9 patch
+          url: http://inloop.github.io/shadow4android/
+          logo: Android9patch.png
+          description: Android 9-patch shadow generator fully customizable shadows.
+        - title: screen sizes
+          url: http://screensiz.es/
+          logo: screensizes.png
+          description: Viewport Sizes and Pixel Densities for Popular Devices.
+        - title: svgomg
+          url: https://jakearchibald.github.io/svgomg/
+          logo: svgomg.png
+          description: SVG 在线压缩平台。
+        - title: 稿定抠图
+          url: https://www.gaoding.com
+          logo: gaoding.png
+          description: 免费在线抠图软件,图片快速换背景-抠白底图。
+    
     - term: 图形创意
       links:
         - title: photoshop
@@ -445,37 +475,7 @@
           url: http://www.vanschneider.com/colors
           logo: vanschneider.png
           description: Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects.
-    - term: 在线工具
-      links:
-        - title: tinypng
-          url: https://tinypng.com/
-          logo: tinypng.png
-          description: Optimize your images with a perfect balance in quality and file size.
-        - title: goqr
-          url: http://goqr.me/
-          logo: goqr.png
-          description: create QR codes for free (Logo, T-Shirt, vCard, EPS).
-        - title: ezgif
-          url: https://ezgif.com
-          logo: ezgif.png
-          description: simple online GIF maker and toolset for basic animated GIF editing.
-        - title: Android 9 patch
-          url: http://inloop.github.io/shadow4android/
-          logo: Android9patch.png
-          description: Android 9-patch shadow generator fully customizable shadows.
-        - title: screen sizes
-          url: http://screensiz.es/
-          logo: screensizes.png
-          description: Viewport Sizes and Pixel Densities for Popular Devices.
-        - title: svgomg
-          url: https://jakearchibald.github.io/svgomg/
-          logo: svgomg.png
-          description: SVG 在线压缩平台。
-        - title: 稿定抠图
-          url: https://www.gaoding.com
-          logo: gaoding.png
-          description: 免费在线抠图软件,图片快速换背景-抠白底图。
-        
+    
     - term: 谷歌插件
       links:
         - title: wappalyzer
