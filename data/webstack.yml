@@ -29,8 +29,6 @@
       url: https://www.v2ex.com/
       description: V2EX 创意工作者的社区。
 
-
-
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
   list:
@@ -62,32 +60,54 @@
           logo: 腾讯视频.png
           url: http://v.qq.com/
           description: 腾讯视频，海量视频在线观看。
-        - title: 优酷
-          logo: 优酷.png
-          url: http://www.youku.com/
-          description: 优酷 - 这个世界很酷。
-        - title: 爱奇艺
-          logo: 爱奇艺.png
-          url: https://www.iqiyi.com/
-          description: 爱奇艺在线视频。
+
         - title: 哔哩哔哩
           logo: 哔哩哔哩.png
           url: https://www.bilibili.com/
           description: Bilibili 视频弹幕网站。
-        - title: QQ 音乐
-          logo: QQ音乐.jpg
-          url: https://y.qq.com/
-          description: QQ 音乐，在线听歌。
+
         - title: 网易云音乐
           logo: 网易云音乐.jpg
           url: https://music.163.com/
           description: 163 网易云音乐。
 
+    - term: 资源网站
+      links:
+        - title: softoroom
+          logo: https://img.lfchen.eu.org/file/imgbed/1772439364633_softoroom.org-favicon-large.ico
+          url: https://softoroom.org/
+          description: unraid等软件破解
+
+      links:
+        - title: 6v电影
+          logo: https://img.lfchen.eu.org/file/imgbed/1772439610877_www.6v520.cc-favicon-large.ico
+          url: https://www.6v520.cc/
+          description: 6v电影
+      
+      links:
+        - title: bt电影
+          logo: https://img.lfchen.eu.org/file/imgbed/1772440041132_www.1lou.me-favicon-large.ico
+          url: https://www.1lou.me/
+          description: bt电影
+
+      links:
+        - title: 磁力熊
+          logo: https://img.lfchen.eu.org/file/imgbed/1772440183911_www.cilixiong.org-favicon-large.ico
+          url: https://www.cilixiong.org/
+          description: 磁力熊
+
+      links:
+        - title: liumingye 音乐
+          logo: https://img.lfchen.eu.org/file/imgbed/1772439950501_tools.liumingye.cn-favicon-large.ico
+          url: https://tools.liumingye.cn/
+          description: liumingye 音乐
+
+
     - term: 游戏竞技
       links:
         - title: 百度贴吧
           logo: 百度贴吧.jpg
-          url: ttps://tieba.baidu.com/index.html
+          url: https://tieba.baidu.com/index.html
           description: 百度贴吧。
 
    
