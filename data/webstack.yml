@@ -130,12 +130,12 @@
           url: https://www.iloveimg.com/zh-cn
           logo: https://img.lfchen.eu.org/file/imgbed/1772616340929_www.iloveimg.com-favicon-large.ico
           description: 在线图片处理
-             
 
         - title: tinypng
           url: https://tinypng.com/
           logo: tinypng.png
-          description: Optimize your images with a perfect balance in quality and file size.
+          description: 在线图片压缩
+
         - title: goqr
           url: http://goqr.me/
           logo: goqr.png
