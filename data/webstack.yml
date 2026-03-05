@@ -51,6 +51,31 @@
           url: https://www.processon.com/
           description: 免费在线作图、实时协作。
 
+
+    - term: AI 
+      links:
+
+        - title: 豆包
+          logo: https://img.lfchen.eu.org/file/imgbed/1772695598770_image.png
+          url: https://www.doubao.com/
+          description: 豆包AI
+
+        - title: deepseek
+          logo: https://img.lfchen.eu.org/file/imgbed/1772695728199_image.png
+          url: https://www.deepseek.com/
+          description: 探索未至之境
+
+        - title: 千问
+          logo: https://img.lfchen.eu.org/file/imgbed/1772695728199_image.png
+          url: https://www.qianwen.com/
+          description: 千问国内版本   
+        
+        - title: Qwen
+          logo: https://img.lfchen.eu.org/file/imgbed/1772695869733_image.png
+          url: https://qwen.ai/home
+          description: 千问海外版本
+     
+
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
   list:
@@ -139,19 +164,14 @@
         - title: goqr
           url: http://goqr.me/
           logo: goqr.png
-          description: create QR codes for free (Logo, T-Shirt, vCard, EPS).
+          description: create QR codes for free (Logo, T-Shirt, vCard, EPS)
+
         - title: ezgif
           url: https://ezgif.com
           logo: ezgif.png
           description: simple online GIF maker and toolset for basic animated GIF editing.
-        - title: Android 9 patch
-          url: http://inloop.github.io/shadow4android/
-          logo: Android9patch.png
-          description: Android 9-patch shadow generator fully customizable shadows.
-        - title: screen sizes
-          url: http://screensiz.es/
-          logo: screensizes.png
-          description: Viewport Sizes and Pixel Densities for Popular Devices.
+
+
         - title: svgomg
           url: https://jakearchibald.github.io/svgomg/
           logo: svgomg.png
@@ -165,34 +185,17 @@
     
     - term: 图形创意
       links:
-        - title: photoshop
-          url: https://www.adobe.com/cn/products/photoshop.html
-          logo: photoshop.png
-          description: Photoshop不需要解释
+
         - title: Affinity Designer
           url: https://affinity.serif.com/
           logo: AffinityDesigner.png
           description: 专业创意软件
-        - title: Illustrator
-          url: https://www.adobe.com/cn/products/illustrator/
-          logo: Illustrator.png
-          description: 矢量图形和插图。
-        - title: indesign
-          url: http://www.adobe.com/cn/products/indesign.html
-          logo: INDESIGN .png
-          description: 页面设计、布局和出版。
-        - title: cinema-4d
-          url: https://www.maxon.net/en/products/cinema-4d/overview/
-          logo: cinema4d.png
-          description: Cinema 4D is the perfect package for all 3D artists who want to achieve breathtaking results fast and hassle-free.
-        - title: 3ds-max
-          url: https://www.autodesk.com/products/3ds-max/overview
-          logo: 3dsmax.png
-          description: 3D modeling, animation, and rendering software
+
         - title: Blender
           url: https://www.blender.org/
           logo: blender.png
           description: Blender is the free and open source 3D creation suite.
+
     - term: 界面设计
       links:
         - title: Sketch
