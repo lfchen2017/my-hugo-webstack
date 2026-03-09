@@ -375,6 +375,21 @@
           url: https://www.bookstack.cn/
           logo: 书栈网.jpg
           description: IT 互联网开源编程书籍免费阅读与下载。
+
+    - term: 公共信息 & 官方平台
+      links:
+        - title: 国家统计局
+          url: https://data.stats.gov.cn/
+          logo: https://img.lfchen.eu.org/file/imgbed/1773023385350_image.png
+          description: Notional data
+
+        - title: 中国医药信息查询平台
+          url: https://www.dayi.org.cn/
+          logo: https://favicon.im/zh/www.dayi.org.cn?larger=true
+          description: 中国医药信息查询平台
+        
+          
+
     - term: 博客论坛
       links:
         - title: Inoreader
