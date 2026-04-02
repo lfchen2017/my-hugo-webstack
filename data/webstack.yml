@@ -85,6 +85,11 @@
           logo: https://favicon.im/zeabur.cn?larger=true
           url: https://zeabur.cn/
           description: zeabur 容器服务
+
+        - title: uptimerobot
+          logo: https://favicon.im/uptimerobot.com/?larger=true
+          url: https://uptimerobot.com/
+          description: 网站监控服务
          
         - title: betterstack
           logo: https://favicon.im/betterstack.com?larger=true
@@ -96,26 +101,11 @@
           url: https://www.papertrail.com/
           description: 日志收集云平台
 
-        - title: cstcloud
-          logo: https://favicon.im/data.cstcloud.cn?larger=true
-          url: https://data.cstcloud.cn/ 
-          description: 中国科技云数据胶囊
-
-        - title: infinicloud
-          logo: https://favicon.im/infini-cloud.net?larger=true
-          url: https://infini-cloud.net/en/ 
-          description: 免费webdav服务
-
         - title: hi168
           logo: https://favicon.im/hi168.com?larger=true
           url: https://www.hi168.com
           description: 云应用服务
 
-        
-         
-         
-
-            
 
     - term: AI 
       links:
@@ -339,6 +329,16 @@
           logo: 坚果云.png
           url: https://www.jianguoyun.com/
           description: 坚果云官网。
+          
+        - title: cstcloud
+          logo: https://favicon.im/data.cstcloud.cn?larger=true
+          url: https://data.cstcloud.cn/ 
+          description: 中国科技云数据胶囊
+
+        - title: infinicloud
+          logo: https://favicon.im/infini-cloud.net?larger=true
+          url: https://infini-cloud.net/en/ 
+          description: 免费webdav服务  
 
     - term: 图标素材
       links:
