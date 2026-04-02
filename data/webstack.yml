@@ -58,7 +58,65 @@
           url: http://mail.qq.com/
           description: 腾讯 QQ 邮箱。  
 
-   
+    - term: 免费云服务
+      links:
+
+        - title: cloudflare
+          logo: https://favicon.im/www.cloudflare.com?larger=true
+          url: https://www.cloudflare.com/
+          description: 赛博活佛
+
+        - title: vercel
+          logo: https://favicon.im/www.vercel.com?larger=true
+          url: https://vercel.com/
+          description: 赛博小活佛 
+
+        - title: koyeb
+          logo: https://favicon.im/www.koyeb.com?larger=true
+          url: https://www.koyeb.com/
+          description: koyeb容器服务
+
+        - title: railway
+          logo: https://favicon.im/railway.com?larger=true
+          url: https://railway.com/
+          description: railway容器服务
+
+        - title: zeabur
+          logo: https://favicon.im/zeabur.cn?larger=true
+          url: https://zeabur.cn/
+          description: zeabur 容器服务
+         
+        - title: betterstack
+          logo: https://favicon.im/betterstack.com?larger=true
+          url: https://betterstack.com
+          description: 日志收集监控
+
+        - title: papertrail
+          logo: https://favicon.im/papertrail.com?larger=true
+          url: https://www.papertrail.com/
+          description: 日志收集云平台
+
+        - title: cstcloud
+          logo: https://favicon.im/data.cstcloud.cn?larger=true
+          url: https://data.cstcloud.cn/ 
+          description: 中国科技云数据胶囊
+
+        - title: infinicloud
+          logo: https://favicon.im/infini-cloud.net?larger=true
+          url: https://infini-cloud.net/en/ 
+          description: 免费webdav服务
+
+        - title: hi168
+          logo: https://favicon.im/hi168.com?larger=true
+          url: https://www.hi168.com
+          description: 云应用服务
+
+        
+         
+         
+
+            
+
     - term: AI 
       links:
 
