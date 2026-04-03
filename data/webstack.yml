@@ -245,6 +245,11 @@
           url: https://www.gaoding.com
           logo: gaoding.png
           description: 免费在线抠图软件,图片快速换背景-抠白底图。
+        - title: 在线录屏
+          url: https://www.lupingwang.com/  
+          logo: https://favicon.im/lupingwang.com?larger=true
+          description: 免费在线录屏
+        
 
          
     
@@ -455,6 +460,12 @@
           url: https://www.dayi.org.cn/
           logo: https://favicon.im/zh/www.dayi.org.cn?larger=true
           description: 中国医药信息查询平台
+        
+        - title: webminal
+          url: https://www.webminal.org/
+          logo: https://favicon.im/zh/webminal.org?larger=true
+          description: 在线shell学习
+
         
           
 
