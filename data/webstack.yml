@@ -191,6 +191,12 @@
           url: https://tools.liumingye.cn/
           description: liumingye 音乐
 
+        - title: rarbgdump
+          logo: https://favicon.im/rarbgdump.com?larger=true
+          url: https://rarbgdump.com/
+          description: RARGB 资源搜索
+        
+
 
     - term: 游戏竞技
       links:
