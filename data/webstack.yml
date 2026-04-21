@@ -200,6 +200,12 @@
           logo: https://favicon.im/switchroms.io?larger=true
           url: https://switchroms.io/
           description: switch rom 下载
+
+        - title: ebook-treasure-chest
+          logo: https://favicon.im/jbiaojerry.github.io/ebook-treasure-chest?larger=true
+          url: https://jbiaojerry.github.io/ebook-treasure-chest/  
+          description: 电子书下载
+        
         
 
 
