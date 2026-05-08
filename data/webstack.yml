@@ -375,6 +375,12 @@
           url: https://infini-cloud.net/en/ 
           description: 免费webdav服务  
 
+        - title: 直链云盘
+          logo: https://favicon.im/links.8uid.com?larger=true
+          url: https://links.8uid.com
+          description: 个人笔记直链云盘
+        
+
     - term: 图标素材
       links:
         - title: Iconfinder
