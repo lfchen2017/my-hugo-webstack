@@ -256,6 +256,11 @@
           logo: tinypng.png
           description: 在线图片压缩
 
+        - title: remit
+          url: https://img.remit.ee
+          logo: https://favicon.im/img.remit.ee?larger=true
+          description: 专业免费在线图片存储
+
         - title: goqr
           url: http://goqr.me/
           logo: goqr.png
@@ -379,6 +384,8 @@
           logo: https://favicon.im/links.8uid.com?larger=true
           url: https://links.8uid.com
           description: 个人笔记直链云盘
+
+
         
 
     - term: 图标素材
