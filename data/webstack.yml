@@ -207,6 +207,12 @@
           logo: https://favicon.im/switchroms.io?larger=true
           url: https://switchroms.io/
           description: switch rom 下载
+          
+        - title: switchroms
+          logo: https://favicon.im/byrutgame.org?larger=true
+          url: https://byrutgame.org/
+          description: byrutgame
+        
 
         - title: ebook-treasure-chest
           logo: https://favicon.im/jbiaojerry.github.io/ebook-treasure-chest?larger=true
