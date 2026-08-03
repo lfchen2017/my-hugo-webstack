@@ -106,6 +106,12 @@
           url: https://www.hi168.com
           description: 云应用服务
 
+        - title: hi168
+          logo: https://favicon.im/tinkmail.me?larger=true
+          url:  https://tinkmail.me
+          description: tinkmail邮箱  
+
+
 
     - term: AI 
       links:
